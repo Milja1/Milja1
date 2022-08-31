@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in frontend development
 - 🌱 I just started learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 Milja.by@yandex.by
 <!---
